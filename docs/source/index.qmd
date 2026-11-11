@@ -73,6 +73,7 @@ guide/plotly_package
 guide/dashboard
 guide/try_it
 guide/mcp
+guide/jobs
 guide/notebook_magics
 guide/mpi
 guide/likwid
